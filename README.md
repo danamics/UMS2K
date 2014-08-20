@@ -1,7 +1,7 @@
 UMS2K
 =====
 
-UltraMegaSort2000 -  Spike sorting and quality metrics for extracellular spike data
+UltraMegaSort2000 -  A MATLAB toolbox for spike sorting and quality metrics of extracellular spike data
 
 Please consult the PDF manual and demo_script.m for instructions on how to use this software.  
 
